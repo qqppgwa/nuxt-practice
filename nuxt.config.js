@@ -62,6 +62,6 @@ export default {
         extend (config, ctx) {}
     },
     router: {
-        base: '/f2eChallange/'
+        base: '/<repository_name>/'
     }
 };
