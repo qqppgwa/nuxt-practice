@@ -1,10 +1,10 @@
 # f2e2019
 
-> My perfect Nuxt.js project
+> My perfect Nuxt.js project~~
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ npm run install
 
