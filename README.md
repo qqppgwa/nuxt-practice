@@ -1,6 +1,6 @@
 # f2e2019
 
-> My perfect Nuxt.js project~~
+> My perfect Nuxt.js project##
 
 ## Build Setup
 
