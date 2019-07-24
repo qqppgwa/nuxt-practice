@@ -58,6 +58,6 @@ export default {
         extend (config, ctx) {}
     },
     router: {
-        base: '/dist/f2eChallenge/'
+        base: '/f2eChallenge/dist/'
     }
 };
