@@ -63,7 +63,7 @@ button {
     height: 24px;
     background-position: center;
     background-size: cover;
-    background-image: url(/images/add.svg);
+    background-image: url(/f2eChallenge/images/add.svg);
     outline: none;
 }
 </style>
