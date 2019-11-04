@@ -2,7 +2,7 @@
     <div class="container">
         <div>
             <logo />
-            <h1 class="title">f2e2019</h1>
+            <h1 class="title">nuxt-practice19</h1>
             <h2 class="subtitle">My perfect Nuxt.js project</h2>
             <div class="links">
                 <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
@@ -37,8 +37,8 @@ export default {
 }
 
 .title {
-    font-family: "Quicksand", "Source Sans Pro", -apple-system,
-        BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+    font-family: 'Quicksand', 'Source Sans Pro', -apple-system,
+        BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
         sans-serif;
     display: block;
     font-weight: 300;
