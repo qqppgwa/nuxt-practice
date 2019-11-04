@@ -114,13 +114,13 @@ nav a {
     margin-bottom: 48px;
 }
 nav a:first-child {
-    background-image: url(/f2eChallenge/images/list.svg);
+    background-image: url(/nuxt-practice/images/list.svg);
 }
 nav a:nth-child(2) {
-    background-image: url(/f2eChallenge/images/stereo.svg);
+    background-image: url(/nuxt-practice/images/stereo.svg);
 }
 nav a:last-child {
-    background-image: url(/f2eChallenge/images/music.svg);
+    background-image: url(/nuxt-practice/images/music.svg);
 }
 ul {
     width: 445px;

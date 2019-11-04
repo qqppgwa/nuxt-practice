@@ -133,10 +133,10 @@ button {
     right: 0;
     left: 0;
     margin: auto;
-    background-image: url(/f2eChallenge/images/play.svg);
+    background-image: url(/nuxt-practice/images/play.svg);
 }
 .pause .play {
-    background-image: url(/f2eChallenge/images/pause.svg);
+    background-image: url(/nuxt-practice/images/pause.svg);
 }
 .time {
     font-size: 176px;

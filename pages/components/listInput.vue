@@ -9,7 +9,7 @@
 export default {
     data () {
         return {
-            input: ''
+            input: "",
             // list: {
             //     input: '',
             //     done: false
@@ -19,8 +19,8 @@ export default {
     methods: {
         addTodo () {
             console.log(this.input);
-            this.$emit('addTodo', { input: this.input,
-                done: false });
+            this.$emit('addTodo', {                input: this.input,
+                done: false            });
             setTimeout(() => {
                 this.input = '';
             }, 100);
@@ -63,7 +63,7 @@ button {
     height: 24px;
     background-position: center;
     background-size: cover;
-    background-image: url(/f2eChallenge/images/add.svg);
+    background-image: url(/nuxt-practice/images/add.svg);
     outline: none;
 }
 </style>
